@@ -1,2 +1,2 @@
 # DataStructure-Algorithm
-Implemented all Data structure and Algorithm in java
+Implemention of all Data structure and Algorithm in java
